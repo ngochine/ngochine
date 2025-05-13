@@ -4,7 +4,7 @@
 - 📧 yourname@example.com  
 - 🌐 [LinkedIn](https://linkedin.com/in/yourprofile) • [GitHub](https://github.com/yourusername)  
 - 📍 Quận X, TP.HCM
-
+  
 ---
 
 ## 🎯 MỤC TIÊU NGHỀ NGHIỆP
