@@ -10,7 +10,8 @@
 
 ## 🎯 MỤC TIÊU NGHỀ NGHIỆP
 
-Sinh viên năm 2 ngành Công nghệ thông tin tại Trường ĐH Mở TP.HCM, định hướng phát triển trong lĩnh vực phát triển phần mềm và trí tuệ nhân tạo. Mục tiêu ngắn hạn là tích lũy kinh nghiệm qua các dự án thực tế và môi trường doanh nghiệp chuyên nghiệp.
+Sinh viên năm 2 ngành Công nghệ thông tin tại Trường ĐH Mở TP.HCM, định hướng phát triển trong lĩnh vực phát triển phần mềm.
+Mục tiêu ngắn hạn là tích lũy kinh nghiệm qua các dự án thực tế và môi trường doanh nghiệp chuyên nghiệp.
 
 ---
 
@@ -35,7 +36,6 @@ _Information Technology_
 | JavaScript               | ⚙️         | ⭐⭐⭐☆☆        |
 | MySQL                    | 📊         | ⭐⭐⭐☆☆        |
 | Git & GitHub             | 🛠         | ⭐⭐⭐☆☆        |
-| Machine Learning (Sklearn)| 🧠        | ⭐⭐⭐☆☆        |
 
 
 ---
@@ -52,20 +52,10 @@ _Information Technology_
 
 ## 💼 DỰ ÁN / KINH NGHIỆM
 
-### 📌 Student Management System – Cá nhân  
-**Công nghệ:** Python, Tkinter, SQLite  
-- Thiết kế phần mềm quản lý sinh viên: thêm, sửa, tìm kiếm dữ liệu  
-- Áp dụng OOP và CRUD trong mô hình MVC cơ bản  
-
-### 🌐 Tech Product Landing Page – Nhóm 3 người  
+### 🌐 Car buying and selling website – Nhóm 2 người  
 **Công nghệ:** HTML, CSS, JavaScript  
-- Xây dựng giao diện landing page giới thiệu sản phẩm công nghệ  
-- Thiết kế responsive UI, form liên hệ, triển khai GitHub Pages  
-
-### 🔍 Smart OCR System (Demo)  
-**Công nghệ:** Python, OpenCV, Flask  
-- Nhận dạng văn bản từ ảnh in ấn  
-- Tiền xử lý ảnh + tích hợp OCR engine (Tesseract)
+- Xây dựng giao diện landing page giới thiệu sản phẩm ô tô  
+- Thiết kế trang chủ, trang đăng nhập/ đăng ký, triển khai GitHub Pages  
 
 ---
 
@@ -79,7 +69,6 @@ _Information Technology_
 
 ## 🌍 NGÔN NGỮ & SỞ THÍCH
 
-- 🔤 Tiếng Việt (native), Tiếng Anh (giao tiếp & kỹ thuật mức độ hiểu)  
-- 🧠 Sở thích: AI & Deep Learning, đọc sách công nghệ  
+- 🔤 Tiếng Việt (native), Tiếng Anh (giao tiếp & kỹ thuật mức độ hiểu) 
 
 ---
