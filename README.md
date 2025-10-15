@@ -10,8 +10,8 @@
 
 ## 🎯 MỤC TIÊU NGHỀ NGHIỆP
 
-Sinh viên năm 2 ngành Công nghệ thông tin tại Trường ĐH Mở TP.HCM, định hướng phát triển trong lĩnh vực phát triển phần mềm.
-Mục tiêu ngắn hạn là tích lũy kinh nghiệm qua các dự án thực tế và môi trường doanh nghiệp chuyên nghiệp.
+Sinh viên năm 3 ngành Công nghệ thông tin tại Trường ĐH Mở TP.HCM, định hướng phát triển trong lĩnh vực phát triển phần mềm.
+Mục tiêu ngắn hạn: tích lũy kinh nghiệm qua các dự án thực tế và môi trường doanh nghiệp chuyên nghiệp.
 
 ---
 
@@ -22,8 +22,6 @@ _Information Technology_
 📅 2023 – nay  
 
 ---
-
-## 🛠️ KỸ NĂNG
 
 ### 🔧 Công nghệ và Ngôn ngữ lập trình
 
@@ -69,6 +67,8 @@ _Information Technology_
 
 ## 🌍 NGÔN NGỮ & SỞ THÍCH
 
-- 🔤 Tiếng Việt (native), Tiếng Anh (giao tiếp & kỹ thuật mức độ hiểu) 
+- Tiếng Việt (native),
+- Tiếng Anh (giao tiếp & kỹ thuật mức độ hiểu)
+- Tiếng Trung (giao tiếp căn bản)
 
 ---
